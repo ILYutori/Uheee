@@ -1,5 +1,5 @@
 {
-  "name": "idk",
+  "name": "web",
   "version": "1.0.0",
   "description": "idk",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://gitlab.com/xea-beta/idk.git"
+    "url": "git+https://github.com/ILYutori/Web.git"
   },
   "keywords": [
     "YAH"
@@ -16,9 +16,9 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://gitlab.com/xea-beta/idk/issues"
+    "url": "https://github.com/ILYutori/Web/issues"
   },
-  "homepage": "https://gitlab.com/xea-beta/idk#readme",
+  "homepage": "https://github.com/ILYutori/Web#readme",
   "dependencies": {
     "http-server": "^14.1.1",
     "live-server": "^1.2.2"
