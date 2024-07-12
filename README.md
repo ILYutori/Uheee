@@ -10,4 +10,7 @@ live-server/http-server
 
 
 ## Step.1
-idk what to say
+
+run http-server/live-server
+
+done!
