@@ -18,5 +18,13 @@
   "bugs": {
     "url": "https://gitlab.com/xea-beta/idk/issues"
   },
-  "homepage": "https://gitlab.com/xea-beta/idk#readme"
+  "homepage": "https://gitlab.com/xea-beta/idk#readme",
+  "dependencies": {
+    "http-server": "^14.1.1",
+    "live-server": "^1.2.2"
+  },
+  "devDependencies": {
+    "@types/http-server": "^0.12.4",
+    "@types/live-server": "^1.2.3"
+  }
 }
