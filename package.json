@@ -1,0 +1,22 @@
+{
+  "name": "idk",
+  "version": "1.0.0",
+  "description": "idk",
+  "main": "index.js",
+  "scripts": {
+    "test": "NO"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/xea-beta/idk.git"
+  },
+  "keywords": [
+    "YAH"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/xea-beta/idk/issues"
+  },
+  "homepage": "https://gitlab.com/xea-beta/idk#readme"
+}
