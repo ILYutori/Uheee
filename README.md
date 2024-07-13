@@ -11,6 +11,6 @@ live-server/http-server
 
 ## Step.1
 
-```run http-server/live-server```
+run ```http-server/live-server```
 
 done!
