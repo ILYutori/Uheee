@@ -1,6 +1,6 @@
 # Web
 
-IDk what to say
+Self Explanatory
 
 ## Running
 Requirements
