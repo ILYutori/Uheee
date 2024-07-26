@@ -21,12 +21,3 @@ run `http-server` or `live-server`
 Enter [localhost:8080](localhost:8080) in your browser
 
 Done
-
-## License
-Web (c) by ILYutori
-
-Web is licensed under a
-Creative Commons Attribution-ShareAlike 4.0 International License.
-
-You should have received a copy of the license along with this
-work. If not, see <https://creativecommons.org/licenses/by-sa/4.0/>.
