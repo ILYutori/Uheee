@@ -6,13 +6,12 @@ Self Explanatory
 Requirements
 
 [Node.js](https://nodejs.org)
- 
-live-server or http-server
+
 
 
 ## Step 1
 
-run `npm install http-server` change http-server to live-server if you want to use live-server
+run `npm install`
 
 ## Step 2
 run `http-server` or `live-server`
@@ -21,3 +20,13 @@ run `http-server` or `live-server`
 Enter [localhost:8080](localhost:8080) in your browser
 
 Done
+
+## Building
+not yet implemented
+
+# H1
+## H2
+### H3
+#### H4
+##### H5
+###### H6
