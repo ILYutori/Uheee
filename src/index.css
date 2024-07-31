@@ -5,18 +5,16 @@ body {
 
 h1 {
     color: white;
-    text-align: center;
+    text-align: left;
+    padding-left: 10px;
 }
 
  h2 {
-    text-align: center;
-    text-rendering: auto;
+    text-align: left;
     color: white;
- } 
- h3 {
-    color: white;
-    text-align: center;
+    padding-left: 10px;
  }
     p {
-    text-align: center;
+    text-align: left;
+    padding-left: 10px;
  }

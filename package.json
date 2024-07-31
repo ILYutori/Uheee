@@ -8,17 +8,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ILYutori/Web.git"
+    "url": "git+https://github.com/ILYutori/Uheee.git"
   },
   "keywords": [
     "YAH"
   ],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ILYutori/Web/issues"
+    "url": "https://github.com/ILYutori/Uheee/issues"
   },
-  "homepage": "https://github.com/ILYutori/Web#readme",
+  "homepage": "https://github.com/ILYutori/Uheee#readme",
   "dependencies": {
     "http-server": "^14.1.1",
     "live-server": "^1.2.2"
