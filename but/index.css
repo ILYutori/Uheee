@@ -4,12 +4,11 @@ body {
  }
  h1 {
     color: white;
+    padding-left: 10px;
  }
+ 
  h2 {
-    text-align: center;
-    text-rendering: auto;
+    text-align: left;
     color: white;
- }
- p {
-    text-align: center;
+    padding-left: 10px;
  }

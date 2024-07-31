@@ -2,14 +2,21 @@ body {
     background-color: black;
     font-family: "Segoe Script";
  }
- h1 {
+
+h1 {
     color: white;
- }
+    text-align: center;
+}
+
  h2 {
     text-align: center;
     text-rendering: auto;
     color: white;
+ } 
+ h3 {
+    color: white;
+    text-align: center;
  }
- p {
+    p {
     text-align: center;
  }
