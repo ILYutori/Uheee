@@ -1,6 +1,6 @@
 body {
     background-color: black;
-    font-family: "Segoe Script";
+    font-family: "Segoe Script", monospace;
  }
  h1 {
     color: white;
@@ -14,8 +14,12 @@ body {
  }
  p {
     text-align: left;
-    font-size: 1em;
+    font-size: 1.1em;
  }
  a {
    color: white;
+   transition: color 500ms;
+ }
+ a:hover {
+   color: aqua;
  }

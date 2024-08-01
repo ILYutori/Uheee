@@ -1,6 +1,6 @@
 body {
     background-color: black;
-    font-family: "Segoe Script";
+    font-family: "Segoe Script", monospace;
  }
 
 h1 {
@@ -8,16 +8,13 @@ h1 {
     text-align: left;
     padding-left: 10px;
 }
-
- h2 {
-    text-align: left;
-    color: white;
-    padding-left: 10px;
- }
-    p {
-    text-align: left;
-    padding-left: 10px;
- }
+h2 {
+   font-size: 1em;
+}
  a {
    color: white;
+   transition: color 500ms;
+ }
+ a:hover {
+   color: aqua;
  }
