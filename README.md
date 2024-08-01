@@ -2,8 +2,6 @@
 
 just a web
 
-## Running
-Figure it out yourself
 # H1
 ## H2
 ### H3
