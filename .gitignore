@@ -2,3 +2,7 @@
 /.vscode/
 /.vs/
 *.hintrc
+*.key
+*.pem
+*.crt
+*.pfx
