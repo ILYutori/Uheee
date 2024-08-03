@@ -6,3 +6,5 @@
 *.pem
 *.crt
 *.pfx
+package.json
+package-lock.json
