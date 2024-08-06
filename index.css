@@ -1,25 +1,32 @@
 body {
-    background-color: black;
-    font-family: "segoe script", "segoe ui", "monospace";
- }
- h1 {
-    color: white;
-    padding-left: 10px;
- }
- h2 {
-    text-align: left;
-    text-rendering: auto;
-    color: white;
-    padding-left: 10px;
- }
- p {
-    text-align: left;
-    font-size: 1.1em;
- }
- a {
-   color: white;
-   transition: color 500ms;
- }
- a:hover {
-   color: aqua;
- }
+  background-color: black;
+  font-family: "segoe script", "segoe ui", "monospace";
+}
+
+h1 {
+  color: white;
+  padding-left: 10px;
+}
+
+h2 {
+  text-align: left;
+  text-rendering: auto;
+  color: white;
+  padding-left: 10px;
+}
+
+p {
+  text-align: left;
+  font-size: 1.1em;
+}
+
+a {
+  color: white;
+  transition: color 500ms;
+}
+
+a:hover {
+  color: aqua;
+}
+
+/*# sourceMappingURL=index.css.map */
