@@ -5,6 +5,11 @@ body {
  h1 {
     color: white;
     padding-left: 10px;
+    transition: 500ms;
+ }
+ h1:hover {
+   color: aqua;
+   transition: 500ms;
  }
  h2 {
     text-align: left;
@@ -23,3 +28,9 @@ body {
  a:hover {
    color: aqua;
  }
+ iframe {
+   display: block;
+   padding: 10px;
+ }
+ 
+/* im bad at scss */
